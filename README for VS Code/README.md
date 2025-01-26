@@ -1,3 +1,26 @@
+- [README for VS Code](#readme-for-vs-code)
+  - [Overview](#overview)
+  - [Key Features of VS Code](#key-features-of-vs-code)
+    - [1. **Lightweight and Fast**](#1-lightweight-and-fast)
+    - [2. **Extensive Language Support**](#2-extensive-language-support)
+    - [3. **Integrated Terminal**](#3-integrated-terminal)
+    - [4. **Extensions and Customizations**](#4-extensions-and-customizations)
+    - [5. **Version Control Integration**](#5-version-control-integration)
+  - [Installation](#installation)
+  - [Getting Started with VS Code](#getting-started-with-vs-code)
+    - [1. **Opening a Project**](#1-opening-a-project)
+    - [2. **Customizing the Editor**](#2-customizing-the-editor)
+    - [3. **Using Extensions**](#3-using-extensions)
+    - [4. **Integrated Terminal**](#4-integrated-terminal)
+  - [Git Integration with VS Code](#git-integration-with-vs-code)
+    - [1. **Cloning a Repository**](#1-cloning-a-repository)
+    - [2. **Tracking Changes**](#2-tracking-changes)
+    - [3. **Branch Management**](#3-branch-management)
+  - [Tips and Tricks](#tips-and-tricks)
+  - [Resources](#resources)
+
+
+
 # README for VS Code
 
 ## Overview

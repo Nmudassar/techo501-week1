@@ -1,4 +1,21 @@
-# README for Addressing Blockers in Azure Resource Management
+- [](#)
+  - [Overview](#overview)
+- [Blockers and Solutions](#blockers-and-solutions)
+  - [1. **Permission Issues**](#1-permission-issues)
+  - [2. **Browser Compatibility**](#2-browser-compatibility)
+  - [3. **Resource Deletion Errors**- README for Addressing Blockers in Azure Resource Management](#3-resource-deletion-errors--readme-for-addressing-blockers-in-azure-resource-management)
+  - [4. **Configuration Errors**](#4-configuration-errors)
+  - [5. **SSH Key Issues**](#5-ssh-key-issues)
+- [Best Practices](#best-practices)
+  - [Troubleshooting Steps](#troubleshooting-steps)
+  - [Use Tags](#use-tags)
+  - [Secure Resources](#secure-resources)
+  - [Minimize Costs](#minimize-costs)
+- [Additional Resources](#additional-resources)
+
+#
+
+README for Addressing Blockers in Azure Resource Management
 
 ## Overview
 
@@ -28,16 +45,7 @@ This document focuses on common blockers encountered during Azure resource manag
   - Use alternative browsers such as Microsoft Edge or Firefox.
   - Clear the browser cache and retry operations.
 
-## 3. **Resource Deletion Errors**
-
-- **Description**: Issues occur when attempting to delete resources or resource groups.
-- **Symptoms**:
-  - Partial deletion of resources.
-  - Failure messages when deleting resource groups.
-- **Solutions**:
-  - Ensure all dependent resources are stopped or deleted first.
-  - Delete resources individually before deleting the entire group.
-  - Avoid selecting "Delete Resource Group" unless absolutely necessary.
+## 3. **Resource Deletion Errors**- [README for Addressing Blockers in Azure Resource Management](#readme-for-addressing-blockers-in-azure-resource-management)
 
 ## 4. **Configuration Errors**
 

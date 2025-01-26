@@ -1,4 +1,13 @@
-Here’s a concise **README** file based on the main points from the transcript:
+- [README: Cloud Fundamentals and Best Practices](#readme-cloud-fundamentals-and-best-practices)
+  - [Overview](#overview)
+  - [What is the Cloud?](#what-is-the-cloud)
+  - [Key Cloud Service Models](#key-cloud-service-models)
+  - [Shared Responsibility Model](#shared-responsibility-model)
+  - [Cloud Security Best Practices](#cloud-security-best-practices)
+  - [Key Terms](#key-terms)
+  - [Cloud Provider Comparison](#cloud-provider-comparison)
+  - [Reminders for Cloud Lab Usage](#reminders-for-cloud-lab-usage)
+
 
 ---
 

@@ -1,3 +1,12 @@
+- [T-Shaped Professional: DevOps Focus](#t-shaped-professional-devops-focus)
+  - [Overview](#overview)
+  - [Broad Skills (Horizontal Bar)](#broad-skills-horizontal-bar)
+  - [Deep Expertise (Vertical Bar)](#deep-expertise-vertical-bar)
+  - [Future-Proofing Your Career](#future-proofing-your-career)
+    - [Key Strategies:](#key-strategies)
+  - [How to Use This Guide](#how-to-use-this-guide)
+  - [Conclusion](#conclusion)
+
 # T-Shaped Professional: DevOps Focus
 
 ## Overview

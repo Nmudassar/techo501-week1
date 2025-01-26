@@ -1,3 +1,31 @@
+- [](#)
+- [README for Azure Resource Management](#readme-for-azure-resource-management)
+  - [Overview](#overview)
+- [Azure Fundamentals](#azure-fundamentals)
+  - [Resource Groups](#resource-groups)
+  - [Virtual Networks (VNet)](#virtual-networks-vnet)
+    - [Subnets](#subnets)
+    - [Planning](#planning)
+- [Managing Virtual Machines](#managing-virtual-machines)
+  - [Key Steps](#key-steps)
+  - [Cost Management](#cost-management)
+- [Blockers](#blockers)
+  - [Common Challenges and Solutions](#common-challenges-and-solutions)
+    - [1. **Permission Issues**](#1-permission-issues)
+    - [2. **Browser Compatibility**](#2-browser-compatibility)
+    - [3. **Resource Deletion Errors**](#3-resource-deletion-errors)
+    - [4. **Configuration Errors**](#4-configuration-errors)
+- [Tips and Best Practices](#tips-and-best-practices)
+  - [Naming Conventions](#naming-conventions)
+  - [Troubleshooting](#troubleshooting)
+  - [Tags](#tags)
+  - [Deleting Resources](#deleting-resources)
+- [Additional Resources](#additional-resources)
+# 
+
+
+
+
 # README for Azure Resource Management
 
 ## Overview
